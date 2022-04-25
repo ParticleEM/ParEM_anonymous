@@ -39,7 +39,7 @@ conda activate ParEM
 Then run the desired notebook:
 
 ```
-jupyter-notebook name_of_notebook.ipynb
+jupyter-notebook ./ParEM_anonymous/name_of_notebook.ipynb
 ```
 
 ## License
