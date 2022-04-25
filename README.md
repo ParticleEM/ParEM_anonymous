@@ -33,7 +33,7 @@ To setup a [conda environment](https://docs.conda.io/projects/conda/en/latest/us
 
 ```
 git clone https://github.com/ParticleEM/ParEM_anonymous.git
-conda env create -f environment.yml
+conda env create -f ./ParEM_anonymous/environment.yml
 conda activate ParEM
 ```
 
