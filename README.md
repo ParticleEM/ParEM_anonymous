@@ -32,7 +32,7 @@ Running the notebooks locally requires:
 To setup a [conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html) with these packages, clone the repository and use the `environment.yml` file included in it:
 
 ```
-git clone https://github.com/ParticleEM/ParEM.git
+git clone https://github.com/ParticleEM/ParEM_anonymous.git
 conda env create -f environment.yml
 conda activate ParEM
 ```
