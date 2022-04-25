@@ -1,5 +1,4 @@
-# <p align="center">Scalable particle-based alternatives to EM<br><br> Under review</p>
-
+# <p align="center">Scalable particle-based alternatives to EM<br>
 
 ## Description
 
