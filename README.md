@@ -26,7 +26,7 @@ Running the notebooks locally requires:
 - numpy == 1.20.3
 - python == 3.9.7
 - scikit-learn == 0.24.2
-- python-wget == 3.2
+- wget == 3.2
 
 To setup a [conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html) with these packages, clone the repository and use the `environment.yml` file included in it:
 
